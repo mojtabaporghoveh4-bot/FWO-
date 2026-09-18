@@ -117,7 +117,7 @@ Merely combining familiar components would leave the project vulnerable to an �
 
 The uncertainty mechanism also needs sharpening: a single error threshold from calibration may not remain valid after task changes or sensor degradation. The concept should explain when the controller abstains and how that decision is evaluated.
 
-A document-cleanup issue: **reference [13] is a Spirogyra ribosomal-RNA sequence**, unrelated to the proposal. Remove it and audit the bibliography.
+**Correction added 18 September 2026:** Reference [13], the Spirogyra GenBank record, supports the interdisciplinary research example in Section 1.4. It is not a misplaced workload citation and should be retained. My earlier recommendation to remove it was incorrect.
 
 **How I would shape Ilias’s 1–2 pages**
 
@@ -144,3 +144,8 @@ Existing research already combines human-state monitoring, personalized models, 
 ## Continuation record
 
 Source proposal and papers are in this repository. The next step is a 1–2 page concept note for Ilias based on the narrower gap above. Preserve the distinction between established findings and proposed hypotheses. The identity of “Dickens” remains an inference: the supplied paper is Wickens (2008). This review does not establish exhaustive worldwide novelty.
+
+
+## Implemented revision
+
+The scientific revisions have now been implemented in [the revised ATTUNE proposal](../revisions/ATTUNE_revised_2026-09-18.md), with [Word](../revisions/ATTUNE_revised_2026-09-18.docx), [PDF](../revisions/ATTUNE_revised_2026-09-18.pdf) and a [change log](../revisions/ATTUNE_changes_2026-09-18.md). The original proposal is preserved. This is a full scientific working revision, not a completed FWO application.
